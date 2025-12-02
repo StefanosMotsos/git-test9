@@ -1,0 +1,8 @@
+### IntelliJ IDEA ###
+out/
+.idea/
+gitTest9.iml
+**/*.log
+
+### Mac OS ###
+.DS_Store
